@@ -1,0 +1,20 @@
+# ignore all logs
+*.log
+*.pyc
+*.out
+*.png
+*.pdf
+*.aux
+*.DS_Store
+*.png
+*checkpoints
+*pycache
+
+#root files
+*.root
+
+#other outputs
+*.txt
+
+#emacs auto-backups
+*~
