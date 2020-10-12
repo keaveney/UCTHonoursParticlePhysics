@@ -4,7 +4,7 @@
 #If neither works you can always paste the links in your browser and download manually 
 curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_361106.Zee.4lep.root
 curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_361107.Zmumu.4lep.root
-curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410000.ttbar.4lep.root
+curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410000.ttbar_lep.4lep.root
 curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410155.ttW.4lep.root	
 curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410218.ttee.4lep.root
 curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410219.ttmumu.4lep.root
@@ -14,7 +14,7 @@ curl -O https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/m
 
 #wget --no-check-certificate https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_361106.Zee.4lep.root
 #wget --no-check-certificate https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_361107.Zmumu.4lep.root
-#wget --no-check-certificate https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410000.ttbar.4lep.root
+#wget --no-check-certificate https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410000.ttbar_lep.4lep.root
 #wget --no-check-certificate https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410155.ttW.4lep.root
 #wget --no-check-certificate https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410218.ttee.4lep.root
 #wget --no-check-certificate https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/4lep/MC/mc_410219.ttmumu.4lep.root
